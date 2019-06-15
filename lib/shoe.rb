@@ -9,7 +9,7 @@ class Shoe
   end
   
   def cobble
-    shoe.condition = "new"
+    self.condition = "new"
   end 
   
 end
